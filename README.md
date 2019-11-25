@@ -33,7 +33,7 @@ Next simply uncheck the option for ‘Highlight current line’. Click ‘Ok’ 
 
 
 
-![#](images/current-line-highlight-in-sql-editor-1.png?raw=true "#")
+![#](images/current-line-highlight-in-sql-editor-2.png?raw=true "#")
 
 ---
 
